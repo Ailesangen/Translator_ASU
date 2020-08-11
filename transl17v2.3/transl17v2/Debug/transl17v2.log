@@ -1,0 +1,3 @@
+﻿  syntax.cpp
+c:\users\админ\desktop\transl17v2\transl17v2\syntax.cpp(84): warning C4101: tempPos: неиспользованная локальная переменная
+  transl17v2.vcxproj -> C:\Users\Админ\Desktop\transl17v2\Debug\transl17v2.exe

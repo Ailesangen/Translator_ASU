@@ -1,0 +1,13 @@
+int a = 13;
+char y = 'x';
+void func()
+{
+int a = 54;
+char b = 'd';
+}
+
+int main() 
+{	int b = 30;
+	a=a+b;
+	func();	
+}
